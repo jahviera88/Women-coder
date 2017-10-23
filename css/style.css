@@ -1,0 +1,53 @@
+
+h1 {
+    font-family: 'Sanchez', serif;
+    font-size: 40px;
+    color: #1EA6C4;
+  }
+h2 {
+  font-family: monospace;
+  font-size: 20px;
+  color: #A1EDFC;
+  }
+
+.fondo{
+  background:#D24664;
+}
+
+.linea {
+    width: 1105px;
+    height: 6px;
+    background-color: #B2CB0F;
+  }
+
+div.coder {
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin: 15px;
+    margin-left:10px;
+
+}
+
+div.coder img {
+    width: auto;
+    height: auto;
+    border-radius: 10px;
+    max-width: 100%;
+    min-width: 250px;
+    max-height: 100%;
+    position:relative;
+
+}
+
+div.coder p {
+
+    position: relative;
+    bottom: 70px;
+    color: #E71240;
+    text-align: right;
+    font-family: 'Sanchez', serif;
+    font-size: 25px;
+    margin-right: 15px;
+
+}
